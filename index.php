@@ -2,7 +2,7 @@
 <head>
 <title>Star Restaurant</title>
 </head>
-<body>
+<body bgcolor="orange">
 <form action="menu.php" method="post">
 <center><h1>Star Restaurant</h1></center> 
 <table align="center"><tr><td>Enter username</td><td><input type="text" name="uname"></input></td></tr>

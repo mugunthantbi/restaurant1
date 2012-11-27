@@ -1,0 +1,45 @@
+.body1
+{
+	width:100%;
+}
+.img1
+{
+	width:80%;
+	height:60%;
+}
+.bg
+{
+	background-color:#F5F3F3;
+}
+.mar
+{
+	margin:2px;
+	padding:10px;
+}
+.footer
+{
+	background-color:#6B6464;
+	color:#FFFFFF;
+	text-align:center;
+	height:10%;
+	
+}
+.img2
+{
+	width:32px;
+	height:32px;
+}
+.img3
+{
+	background-color:#F5F6CE;
+}
+.logo
+{
+	height:30%;
+	width:45%;
+}
+.wrapper
+{
+	margin-left:120px;
+	margin-right:120px;
+}

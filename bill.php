@@ -22,7 +22,7 @@ $dis=implode(",",$d);
 <html>
 <body bgcolor="orange">
 <table border="1" align="center">
-<tr><td colspan="2"><h3><p align="center">Star Restaurant</p></h3></td>
+<tr><td colspan="2" align="center"><h3>Star Restaurant</h3></td>
 </tr>
 <tr><td>Name</td><td><?php echo $name; ?></td></tr>
 <tr><td>Email</td><td><?php echo $email; ?></td></tr>

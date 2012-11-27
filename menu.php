@@ -10,7 +10,7 @@ echo "<center><h1>Hello ". $name." Welcome to Star Restaurant<br/></h1></center>
 <title>Star Restaurant</title>
 </head>
 <body bgcolor="orange">
-<center><img src="img1.jpeg"></center></img>
+<center><img src="img1.jpeg"/></center>
 <form action="bill.php" method="post">
 <table align="center">
 <tr><td colspan=2 align="center"><h3>Menu Items</h3></td></tr>
